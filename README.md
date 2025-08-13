@@ -34,7 +34,7 @@ SAPPY dibangun di atas arsitektur **mikroservis** untuk memastikan skalabilitas,
 
 ---
 
-## 🛠️ Tumpukan Teknologi (Tech Stack)
+## 🛠️ Tech Stack
 
 | Kategori | Teknologi |
 | :--- | :--- |
