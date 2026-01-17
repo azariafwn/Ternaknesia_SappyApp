@@ -5,8 +5,29 @@
 **SAPPY** adalah solusi aplikasi mobile terintegrasi yang dirancang untuk membantu peternak sapi perah dalam mengatasi tantangan produktivitas. Proyek ini dikembangkan untuk PT. Ternaknesia Farm Inovation sebagai respons terhadap masalah penurunan produksi susu di Indonesia, meskipun populasi sapi terus meningkat
 Aplikasi ini mengatasi masalah inti yaitu **kombinasi pakan yang tidak konsisten dan tidak terdata dengan baik**, yang menyulitkan pelacakan dan optimasi. Dengan SAPPY, peternak dapat mencatat, menganalisis, dan membuat keputusan berbasis data untuk meningkatkan produktivitas secara efisien
 
-### 📸 Screenshot Aplikasi
-**[Klik di sini untuk melihat semua screenshot tampilan SAPPY di Google Drive](https://drive.google.com/drive/folders/1jNvKQG37QSaG-i31tW7tiEuSXNqcjif3?usp=sharing)**
+---
+
+## 📸 User Interface & Design
+
+Transformasi data peternakan ke dalam antarmuka mobile yang intuitif untuk berbagai peran pengguna.
+
+### 1. Authentication & Farmer Experience
+| Login Interface | Farmer Dashboard |
+| :--- | :--- |
+| ![Login Screen](img-sappy/peternak-login.png) | ![Farmer Home](img-sappy/peternak-home.png) |
+| *Sistem autentikasi aman dengan dukungan login konvensional maupun integrasi akun Google.* | *Dashboard utama peternak yang menyajikan statistik harian dan grafik tren produksi susu menggunakan fl_chart.* |
+
+### 2. Monitoring & AI-Powered Insights
+| Cow Data Inventory | AI Prediction Detail |
+| :--- | :--- |
+| ![Cow List](img-sappy/peternak-data.png) | ![Prediction Detail](img-sappy/peternak-data-detail.png) |
+| *Manajemen profil sapi dengan indikator status kesehatan dan klasifikasi produktivitas secara real-time.* | *Visualisasi performa produksi susu yang membandingkan data aktual dengan prediksi model LSTM.* |
+
+### 3. Professional Roles (Vet & Admin)
+| Veterinarian Dashboard | Admin Central Overview |
+| :--- | :--- |
+| ![Vet Home](img-sappy/dokter-home.png) | ![Admin Home](img-sappy/admin-home.png) |
+| *Antarmuka khusus dokter hewan yang memprioritaskan daftar sapi dengan gejala klinis untuk penanganan cepat.* | *Panel kendali admin untuk memantau ketersediaan logistik pakan dan agregasi data seluruh peternakan.* |
 
 ---
 
